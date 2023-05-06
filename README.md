@@ -10,7 +10,7 @@ Build RESTful API for Note Apps Back-end using NodeJs.
 Front-end cek in link : http://notesapp-v1.dicodingacademy.com/.
 
 ### Structure Project
-
+```bash
 notes-app-back-end
 ├── node_modules
 ├── src
@@ -19,9 +19,9 @@ notes-app-back-end
 │ ├── routes.js
 │ └── server.js
 ├── .eslintrc.json
-├── package-lock.json
-└── package.json
-
+├── package-lock.json 
+└── package.json 
+```
 ### Details
 
 - server.js : load code for create, config, and run server HTTP using Hapi.
